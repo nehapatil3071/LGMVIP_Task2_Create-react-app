@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 120px;
+  color: white;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.name {
+  font-size: 30px;
+  padding-right: 20rem;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn {
+  font-family: "Archia";
+  background-image: linear-gradient(-225deg, #b1a6b6, #5a259b 48%, #473e5f);
+  color: white;
+  font-size: x-large;
+  padding: 3px 3px 3px 3px;
+  border: 2px solid #000;
+  border-radius: 5px;
+}
